@@ -9,6 +9,6 @@
   
 <!--   [![byseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=byseop&count_private=true&show_icons=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=byseop&count_private=true&show_icons=true&theme=algolia) -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byseop&theme=algolia&layout=compact)](https://github.com/byseop/github-readme-stats&theme=algolia)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byseop&theme=github_dark&layout=compact)](https://github.com/byseop/github-readme-stats&theme=github_dark)
  </div>
 </div>
